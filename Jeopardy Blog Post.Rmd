@@ -1,0 +1,89 @@
+---
+title: "Jeopardy Statistics & Training a Fun Fact Text-Bot"
+author: "James Wilson"
+date: "1/7/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(reticulate)
+#use_python()
+```
+
+```{python}
+# example 
+“I walked 10 2nd graders on my grandma.”
+
+
+```
+
+7PM PST on a weeknight means watching Jeopardy, no matter the situation. I'll watch the show with anyone that's willing to listen as I yell answers at a television screen where Alex Trebek asks random trivia questions. Jeopardy has been a central feature for me throughout my life, bonding with my Dad or college roommates while competing to see who is the “smartest”. 
+
+The show is known for its structured and professional manner, where contestants are cordial with one another and all demonstrate a sort of deference to the show and its legendary host. After the first commercial break, however, all contestants are given a chance to discuss something interesting about themselves. This is where, in my opinion, anyone watching gets to enjoy the feeling that you get from watching the Bachelor at 8PM: judgement. It is incredibly fun watching contestants talk about incredible feats of achievement they have had, or embarase themselves with a story about _____.
+
+In celebration of the Ultimate Champions tournament taking place this week, I thought it would be fun to look at anyone but the Champions. More specifically, I want to take a deep dive into the types of people that make it onto the show, and what aspect of their lives they think is worth discussing in front of a live audience. And more importantly, from a data perspective, can we simulate and create our own Jeopardy "fun fact" generator? 
+
+## Part 1: The Data
+
+We can collect information on Jeopardy contestants from two sources: the Offical Jeopardy Archive & @CoolJeopardyStories on Twitter. 
+The Jeopardy Archive collects and maintains all details related to the show, including: ________
+
+___ scraper function ___
+```{python}
+
+```
+__output__
+
+For the "fun fact" part of the analysis, we rely on the work of ______ , who ran the @CoolJeopardyStories account from ___ to ____. 
+Without episode transcripts easily available online[], we have to rely on the transcription work done by ___. While these transcription aren't perfect representations, they get to the meat of the stories and should work for our purpouses. 
+
+____ tweepy function ___
+```{python}
+
+```
+__output__
+
+We can merge these two datasets together on their respective player id and show date to create a full data frame of contestants and their respective details. 
+
+
+## Part 2: Player Statistics
+
+
+Where contestant come from & what their occupations are
+Any correlation to winnings? 
+Deal with outliers / control for candidate who has won multiple times
+ 
+
+
+
+
+
+
+## Part 3: Sentiment Analysis and a Fun Fact Text-Bot Using TextGenRNN
+	The main challenge is to create several of our own faux jeopardy contestants with different features and see who they are 
+	Winner 
+	Average
+	Big loser 
+
+LSTM Model ? 
+
+
+
+## Part 4:  Conclusion 
+
+
+[1] If you work for Jeopardy or ___,  I would love access to these ! 
+
+
+
+
+
+
+
+
+
+
+
+
