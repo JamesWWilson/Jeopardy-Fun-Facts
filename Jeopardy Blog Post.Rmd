@@ -1,7 +1,7 @@
 ---
-title: "Jeopardy Statistics & Training a Fun Fact Text-Bot"
+title: "Jeopardy Statistics & Fun Fact Text-Bot"
 author: "James Wilson"
-date: "1/7/2020"
+date: "2/10/2020"
 output: html_document
 ---
 
@@ -25,19 +25,18 @@ jeopardy_df <- read.csv("Data/clean_jeopardy_data.csv")
 ```
 
 7PM PST on a weeknight means Jeopardy. I'll watch the show with anyone that's willing to listen as I mutter 
-answers at a television screen while Alex Trebek asks random trivia questions. Jeopardy has been a central feature of my life, 
+answers at a television screen while Alex Trebek asks challenging trivia questions. Jeopardy has been a central feature of my life, 
 bonding with my Dad over dinner or competing with college roommates to see who is the “smartest”. 
 
 The show is known for its structured and professional manner, where contestants are cordial with one another and all demonstrate a sort of 
 deference to the show and its now legendary host. After the first commercial break, however, all contestants are given a chance to discuss 
-something interesting about themselves. This is where, in my opinion, anyone who is a fan of the Bachelor gets a taste of their favorite meal: human judgement. 
- It is incredibly fun watching contestants talk about incredible feats of achievement they have had _____, or embarase 
-themselves with a story about _____ (these are real examples). 
+something interesting about themselves. This is where, in my opinion, anyone who is a fan of the Bachelor gets a taste of their favorite snack: human judgement. 
+It's fun watching contestants talk about being mistaken for Nicolas Cage in Mexico, or tell embarassing stories about coaching Quidditch teams (these are real examples!) 
 
-In celebration of the Ultimate Champions tournament taking place this month, I thought it would be fun to look at anyone but the Champions.
- More specifically, I want to take a deep dive into the types of people that make it onto the show, and what aspect of their lives they think 
- is worth discussing in front of a live audience. And more importantly, from a data perspective, can we simulate and create our own faux Jeopardy 
-  contestants and "fun facts"? 
+In celebration of the Ultimate Champions tournament that took place this month, I thought it would be fun to look at anyone but the Champions.
+More specifically, I want to take a deep dive into the types of people that make it onto the show, and what aspect of their lives they think 
+is worth discussing in front of a live audience. And more importantly, from a data perspective, can we simulate and create our own faux Jeopardy 
+contestants and "fun facts"? 
 
 ## Part 1: The Data
 
@@ -111,10 +110,9 @@ while index < 2000:
     index = index + 1
 ```
 
-For the "fun fact" part of the analysis, we rely on the work of Chad Mosher, as there are no episode transcripts easily available online[]. 
+For the "fun fact" part of the analysis, we rely on the work of Chad Mosher, as there are no episode transcripts easily available online[1]. 
 Chad ran the @CoolJeopardyStories account from February 11th, 2014 to July 26th, 2019, where he created tweet length version's of each show contestant's story. 
 While these transcription aren't perfect representations, they get to the meat of the stories and should work for our purposes. 
-
 
 ### Twitter API Pull
 ```{python, eval=FALSE}
@@ -161,7 +159,7 @@ while True:
     all_tweets.extend(tweets)
     print('N of tweets downloaded till now {}'.format(len(all_tweets)))
     
-    #transform the tweepy tweets into a 2D array that will populate the csv	
+#transform the tweepy tweets into a 2D array that will populate the csv	
 outtweets = [[tweet.id_str, 
               tweet.created_at, 
               tweet.favorite_count, 
@@ -174,25 +172,66 @@ df.to_csv('%s_tweets.csv' % userID,index=False)
 
 We can merge these datasets together on their respective player_id and show_date fields to create a full data set of contestant details. 
 ```{python}
-
-jeopardy_df.head()
-
+#jeopardy_df.head()
 ```
 
+The final dataset for our analysis contains *1,971* contestants playing in games ranging from October 24th, 2010 to July 26th, 2019.  
 
 ## Part 2: Player Statistics
 
-So who are these contestants? First, lets look at where they're from:
+So who are these contestants? First, lets look at where they list their Hometowns across the United States[2].
 
- -- map of contestants hometown --
+| Hometown                | Contestant Count |
+|-------------------------|------------------|
+| New York, New York      | 133              |
+| Chicago, Illinois       | 104              |
+| Los Angeles, California | 99               |
+| Brooklyn, New York      | 70               |
+| Seattle, Washington     | 45               |
+| Atlanta, Georgia        | 44               |
+| Austin, Texas           | 39               |
+| Las Vegas, Nevada       | 37               |
+| Arlington, Virginia     | 31               |
+| San Diego, California   | 30               |
+| Portland, Oregon        | 29               |
+| ...                     | ...              |
+
+
+|         Hometown        | Contestant Count |
+|:-----------------------:|:----------------:|
+|    New York, New York   |        133       |
+|    Chicago, Illinois    |        104       |
+| Los Angeles, California |        99        |
+|    Brooklyn, New York   |        70        |
+|   Seattle, Washington   |        45        |
+|     Atlanta, Georgia    |        44        |
+|      Austin, Texas      |        39        |
+|    Las Vegas, Nevada    |        37        |
+|   Arlington, Virginia   |        31        |
+|  San Diego, California  |        30        |
+|     Portland, Oregon    |        29        |
+|           ...           |        ...       |
+
+
+We can take these hometowns and plot them to their respective FIP codes (using data from the U.S. Census Bureau) across the United States[3]. 
+
+{:refdef: style="text-align: center;"}
+![Map](Scripts/images/uscountymap.png)
+{: refdef}
  
- 
-# - highest && lowest state values 
+Contestants appear to make it onto Jeopardy in proportion with population centers across the country. Put more aptly, while higher numbers of contestants come from dense coastal cities, we also see individuals popping up from small towns across the US. In reality, 51% of contestants come from their own unique hometown! 
+
+
+# Winnings by state ? 
 
 
 
-What sort of jobs 
+Now lets 
+
+What sort of jobs ? Need to recast these as best as we can 
 # - highest & lowest job values 
+
+
 
 
 
@@ -203,61 +242,60 @@ Any correlation to winnings?
 
 
 
- 
 
 
 
 
 
 
-## Part 3: Sentiment Analysis and a Fun Fact Text-Bot Using TextGenRNN
+## Part 3: Sentiment Analysis
 	
-	We can conduct a simple NLP analysis of these anecotes, and determine whether stories tend to be more positive or negative ...
-	
-	
-	
-	...
+We can conduct a simple NLP analysis of these anecotes, and determine whether stories tend to be more positive or negative ...
 	
 	
 	
-	After cleaning the 
+
 	
 	
+After cleaning the 
+	
+	
+## Part 4: Fun Fact Text-Bot Using TextGenRNN
 
 
 
-LSTM Model ? 
+Discuss LSTM model
+
+different temperatue uses 
+
+
+|                Generated Fun Facts                |
+|:-------------------------------------------------:|
+| I have a chicken contest in the Marching Sandois. |
+|          My dad wrote me a bug geography          |
+|    I proposed in a theatre in a trivia contest.   |
+|     I met my husband at social food climbing.     |
+|   I met my wife when I was pregnant with London.  |
 
 
 
-## Part 4:  Conclusion 
 
+
+## Part 5:  Conclusion 
+
+
+
+
+
+# Data
+
+# Code 
+
+# Citations 
 
 [1] If you work for Jeopardy or ___,  I would love access to these ! 
-
-
-
-
-
-I manage an elephant for my home
-
-
-I have a chicken contest in the Marching Sandois.
-
-My dad wrote me a bug geography
-
-I proposed in a theatre in a trivia contest.
-
-I met my husband at social food climbing.
-
-I met my wife when I was pregnant with London.
-
-
-# talk about differences in temperature
-
-# 
-
-
+[2] Excluding contestants from Canada, Alaska, and Hawaii. 
+[3] https://simplemaps.com/data/us-cities
 
 
 

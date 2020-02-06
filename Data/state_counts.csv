@@ -1,0 +1,865 @@
+Hometown,count
+"New York, New York",133
+"Chicago, Illinois",104
+"Los Angeles, California",99
+"Brooklyn, New York",70
+"Seattle, Washington",45
+"Atlanta, Georgia",44
+"Austin, Texas",39
+"Las Vegas, Nevada",37
+"Arlington, Virginia",31
+"San Diego, California",30
+"Portland, Oregon",29
+"Pittsburgh, Pennsylvania",28
+"Denver, Colorado",27
+"Houston, Texas",26
+"Kenilworth, Illinois",25
+"Nashville, Tennessee",24
+"Philadelphia, Pennsylvania",24
+"Alexandria, Virginia",23
+"San Francisco, California",23
+"St. Louis, Missouri",21
+"New Orleans, Louisiana",20
+"Minneapolis, Minnesota",19
+"Decatur, Georgia",18
+"Boston, Massachusetts",18
+"Orlando, Florida",18
+"Raleigh, North Carolina",17
+"Ann Arbor, Michigan",17
+"Miami, Florida",17
+"Baltimore, Maryland",17
+"Louisville, Kentucky",17
+"Columbia, Maryland",15
+"Princeton, New Jersey",15
+"Dallas, Texas",14
+"Cambridge, Massachusetts",14
+"Pasadena, California",13
+"Tucson, Arizona",13
+"Somerville, Massachusetts",13
+"Broadview Heights, Ohio",12
+"Tulsa, Oklahoma",12
+"Charlottesville, Virginia",12
+"Kansas City, Missouri",12
+"Charlotte, North Carolina",12
+"Silver Spring, Maryland",12
+"Manchester, New Hampshire",12
+"Wilmington, Delaware",12
+"Malden, Massachusetts",12
+"Cleveland, Ohio",12
+"Madison, Wisconsin",12
+"Indianapolis, Indiana",11
+"Aurora, Colorado",11
+"Salt Lake City, Utah",10
+"Knoxville, Tennessee",10
+"State College, Pennsylvania",10
+"Bethesda, Maryland",10
+"Amherst, Ohio",10
+"Cincinnati, Ohio",10
+"Vermilion, Ohio",10
+"Little Rock, Arkansas",9
+"Durham, North Carolina",9
+"Rochester, New York",9
+"Eastpointe, Michigan",9
+"Champaign, Illinois",9
+"Newark, Delaware",9
+"Columbus, Ohio",9
+"Birmingham, Alabama",9
+"Medford, Massachusetts",9
+"Shaker Heights, Ohio",9
+"Berwyn, Pennsylvania",9
+"Albany, New York",9
+"Fort Worth, Texas",8
+"Boulder, Colorado",8
+"Lexington, Kentucky",8
+"Santa Monica, California",8
+"Steamboat Springs, Colorado",8
+"Omaha, Nebraska",8
+"Frederick, Maryland",8
+"Homer, New York",8
+"Santa Barbara, California",8
+"Fort Collins, Colorado",8
+"SeaTac, Washington",8
+"Jersey City, New Jersey",8
+"Albuquerque, New Mexico",8
+"Mount Airy, North Carolina",7
+"Richmond, Virginia",7
+"Queens, New York",7
+"Johns Creek, Georgia",7
+"Ellicott City, Maryland",7
+"Columbia, South Carolina",7
+"Edina, Minnesota",7
+"Mountain View, California",7
+"Long Beach, California",7
+"North Little Rock, Arkansas",7
+"West Hollywood, California",7
+"Providence, Rhode Island",7
+"Round Rock, Texas",7
+"Kinston, North Carolina",7
+"New Haven, Connecticut",7
+"Toledo, Ohio",6
+"Oklahoma City, Oklahoma",6
+"Fayetteville, Arkansas",6
+"Herndon, Virginia",6
+"Carmel, Indiana",6
+"Des Moines, Iowa",6
+"Marietta, Georgia",6
+"Baton Rouge, Louisiana",6
+"Huntsville, Alabama",6
+"Bend, Oregon",6
+"Jacksonville, Florida",6
+"Riverside, California",6
+"Boise, Idaho",6
+"Roanoke, Virginia",6
+"Bonita Springs, Florida",6
+"Sarasota, Florida",6
+"Norfolk, Virginia",5
+"Falls Church, Virginia",5
+"Jackson, Michigan",5
+"McLean, Virginia",5
+"Anchorage, Alaska",5
+"Vancouver, Washington",5
+"Gainesville, Georgia",5
+"Macungie, Pennsylvania",5
+"Lexington, South Carolina",5
+"Virginia Beach, Virginia",5
+"Arvada, Colorado",5
+"Madison, Alabama",5
+"Westlake Village, California",5
+"Gainesville, Florida",5
+"Colorado Springs, Colorado",5
+"Berkeley, California",5
+"Columbia, Missouri",5
+"Elmhurst, Illinois",5
+"Memphis, Tennessee",5
+"Lincoln, Nebraska",5
+"Los Altos, California",5
+"Longmont, Colorado",5
+"Dubuque, Iowa",5
+"Buffalo, New York",5
+"Quincy, Massachusetts",5
+"Pomona, California",5
+"Detroit, Michigan",5
+"Sioux Falls, South Dakota",5
+"Somerset, New Jersey",5
+"Perrysburg, Ohio",5
+"Peachtree City, Georgia",5
+"Owings Mills, Maryland",5
+"Lansing, Kansas",5
+"Stamford, Connecticut",5
+"Bethlehem, Pennsylvania",5
+"Ogden, Utah",5
+"Tampa, Florida",5
+"Livonia, Michigan",5
+"Lacey, Washington",4
+"Corydon, Indiana",4
+"Fort Wayne, Indiana",4
+"Irvine, California",4
+"Fresno, California",4
+"Katy, Texas",4
+"Evanston, Illinois",4
+"Kirkland, Washington",4
+"Iowa City, Iowa",4
+"Lanham, Maryland",4
+"Huntington Beach, California",4
+"Joliet, Illinois",4
+"East Lansing, Michigan",4
+"Hoover, Alabama",4
+"Denton, Texas",4
+"Deer Park, Texas",4
+"Lakewood, Ohio",4
+"Ypsilanti, Michigan",4
+"Boyertown, Pennsylvania",4
+"Phoenix, Arizona",4
+"Prattville, Alabama",4
+"San Jose, California",4
+"Brooklyn, Michigan",4
+"The Woodlands, Texas",4
+"Arnold, Missouri",4
+"Reston, Virginia",4
+"Swarthmore, Pennsylvania",4
+"Ridgewood, New Jersey",4
+"Slippery Rock, Pennsylvania",4
+"Mesa, Arizona",4
+"Rogers, Arkansas",4
+"Bowie, Maryland",4
+"Boca Raton, Florida",4
+"Bloomington, Indiana",4
+"Rye, New York",4
+"Sacramento, California",4
+"Birmingham, Michigan",4
+"Santa Fe, New Mexico",4
+"Bettendorf, Iowa",4
+"Santa Clara, California",4
+"San Antonio, Texas",4
+"Plano, Texas",4
+"San Bruno, California",4
+"Olive Branch, Mississippi",4
+"Morgantown, West Virginia",4
+"Northampton, Massachusetts",4
+"Oak Park, California",4
+"Winston-Salem, North Carolina",4
+"Wyandotte, Michigan",4
+"Muncie, Indiana",4
+"Oakland, California",4
+"New Paltz, New York",4
+"Monrovia, California",4
+"Mineral Point, Wisconsin",4
+"Carrollton, Texas",4
+"Milwaukee, Wisconsin",4
+"Midvale, Utah",4
+"Vienna, Virginia",3
+"Savannah, Georgia",3
+"Shamokin, Pennsylvania",3
+"Wheaton, Illinois",3
+"Greenville, South Carolina",3
+"Spokane, Washington",3
+"Urbana, Illinois",3
+"Gaithersburg, Maryland",3
+"Harvest, Alabama",3
+"Goleta, California",3
+"Syracuse, New York",3
+"Tempe, Arizona",3
+"Grand Island, Nebraska",3
+"Torrance, California",3
+"Hoffman Estates, Illinois",3
+"Highland Park, New Jersey",3
+"Tucker, Georgia",3
+"Grand Rapids, Michigan",3
+"Higganum, Connecticut",3
+"McKinney, Texas",3
+"Johnson City, Tennessee",3
+"Kalamazoo, Michigan",3
+"Macon, Georgia",3
+"Loveland, Ohio",3
+"Loveland, Colorado",3
+"Naperville, Illinois",3
+"New Bern, North Carolina",3
+"Norman, Oklahoma",3
+"Akron, Ohio",3
+"Parker, Colorado",3
+"Perry, Kansas",3
+"Littleton, Colorado",3
+"Poway, California",3
+"Lighthouse Point, Florida",3
+"Provo, Utah",3
+"Rancho Cucamonga, California",3
+"Laurel, Maryland",3
+"Randolph, Massachusetts",3
+"Red Bank, New Jersey",3
+"Redwood City, California",3
+"Reno, Nevada",3
+"Lafayette, Indiana",3
+"Lafayette, Colorado",3
+"Rock Hill, South Carolina",3
+"Rockville, Maryland",3
+"Kennesaw, Georgia",3
+"Sammamish, Washington",3
+"Old Forge, Pennsylvania",3
+"Lockport, New York",3
+"Cary, North Carolina",3
+"Corona, California",3
+"Florence, South Carolina",3
+"Fishers, Indiana",3
+"Casper, Wyoming",3
+"Charleston, South Carolina",3
+"Chicago Heights, Illinois",3
+"East Point, Georgia",3
+"Cheyenne, Wyoming",3
+"Canyonville, Oregon",3
+"Berwyn, Illinois",3
+"Corvallis, Oregon",3
+"Claremont, California",3
+"Altamonte Springs, Florida",3
+"Fort Myers, Florida",3
+"Centennial, Colorado",3
+"Alameda, California",3
+"Bronxville, New York",3
+"Lamar, Missouri",2
+"Stony Brook, New York",2
+"Sullivan, Illinois",2
+"Riverton, Utah",2
+"Chattanooga, Tennessee",2
+"Lafayette, Louisiana",2
+"Laguna Niguel, California",2
+"Ashtabula, Ohio",2
+"Sunnyvale, California",2
+"Lake Forest, California",2
+"Lake Wales, Florida",2
+"Lake Wylie, South Carolina",2
+"Chatham, New Jersey",2
+"Bristol, Pennsylvania",2
+"North Wales, Pennsylvania",2
+"Lakewood, Colorado",2
+"Adairsville, Georgia",2
+"Arroyo Grande, California",2
+"Norwalk, Connecticut",2
+"Trumansburg, New York",2
+"Tustin, California",2
+"Irving, Texas",2
+"Brookfield, Wisconsin",2
+"Essex Junction, Vermont",2
+"Encinitas, California",2
+"Richmond, California",2
+"Tualatin, Oregon",2
+"Bronx, New York",2
+"Oak Harbor, Washington",2
+"Chapel Hill, North Carolina",2
+"Oak Ridge, Tennessee",2
+"Arlington Heights, Illinois",2
+"Tigard, Oregon",2
+"Oak Ridge, North Carolina",2
+"East Providence, Rhode Island",2
+"Athens, Ohio",2
+"Steeleville, Illinois",2
+"Rolla, Missouri",2
+"St. Paul, Minnesota",2
+"Rocky Point, New York",2
+"Bakersfield, California",2
+"Smyrna, Tennessee",2
+"Manassas, Virginia",2
+"Cleveland Heights, Ohio",2
+"Skokie, Illinois",2
+"Ballwin, Missouri",2
+"Mount Sinai, New York",2
+"Morton Grove, Illinois",2
+"Martin, Tennessee",2
+"Severna Park, Maryland",2
+"San Luis Obispo, California",2
+"San Mateo, California",2
+"Meriden, Connecticut",2
+"Mobile, Alabama",2
+"Sayreville, New Jersey",2
+"Beacon, New York",2
+"Milford, Ohio",2
+"Milltown, Wisconsin",2
+"Santa Rosa, California",2
+"Cumming, Georgia",2
+"Murray, Utah",2
+"South Coffeyville, Oklahoma",2
+"Springfield, Illinois",2
+"Levittown, Pennsylvania",2
+"St. Charles, Illinois",2
+"Eureka Springs, Arkansas",2
+"Springfield, Virginia",2
+"Douglassville, Pennsylvania",2
+"Lindenhurst, Illinois",2
+"Lititz, Pennsylvania",2
+"Chevy Chase, Maryland",2
+"Derwood, Maryland",2
+"Mystic, Connecticut",2
+"Declo, Idaho",2
+"Dearborn, Michigan",2
+"Canton, Georgia",2
+"Longview, Texas",2
+"Royal Oak, Michigan",2
+"Naples, Florida",2
+"Nanuet, New York",2
+"Louisville, Colorado",2
+"Brookhaven, Mississippi",2
+"Mission Viejo, California",2
+"Evansville, Indiana",2
+"Phoenixville, Pennsylvania",2
+"Winder, Georgia",2
+"Albany, California",2
+"Hamtramck, Michigan",2
+"Westerville, Ohio",2
+"Peabody, Massachusetts",2
+"Gilbert, Arizona",2
+"West Lafayette, Indiana",2
+"Winter Haven, Florida",2
+"Allen, Texas",2
+"Pataskala, Ohio",2
+"Germantown, Tennessee",2
+"Cape Charles, Virginia",2
+"Flagstaff, Arizona",2
+"Quincy, Illinois",2
+"Brunswick, Ohio",2
+"Allen Park, Michigan",2
+"Flower Mound, Texas",2
+"Waterville, Maine",2
+"Pembroke Pines, Florida",2
+"Poulsbo, Washington",2
+"Grand Blanc, Michigan",2
+"Williamsburg, Virginia",2
+"Carlisle, Pennsylvania",2
+"Wilmington,  North Carolina",2
+"Granite City, Illinois",2
+"Gonzales, Louisiana",2
+"Great Neck, New York",2
+"Greeley, Colorado",2
+"Green Bay, Wisconsin",2
+"Whittier, California",2
+"Greensboro, North Carolina",2
+"Greenville, Alabama",2
+"Greenwich, Ohio",2
+"Grinnell, Iowa",2
+"Panama City, Florida",2
+"Hartsdale, New York",2
+"Potomac, Maryland",2
+"Friendswood, Texas",2
+"Visalia, California",2
+"Fort Thomas, Kentucky",2
+"Worcester, Massachusetts",2
+"Woburn, Massachusetts",2
+"Plymouth, Minnesota",2
+"Woodside, California",2
+"Pleasant Ridge, Michigan",2
+"Brooksville, Florida",2
+"Fairfax, Virginia",2
+"Ambler, Pennsylvania",2
+"Point Pleasant, New Jersey",2
+"Overland Park, Kansas",2
+"Hilliard, Ohio",2
+"Valley Stream, New York",2
+"Federal Way, Washington",2
+"Huntington Woods, Michigan",2
+"Chamblee, Georgia",2
+"Everett, Washington",2
+"Ferndale, Michigan",2
+"Pacifica, California",2
+"Woodbridge, Virginia",2
+"Hyattsville, Maryland",2
+"Independence, Ohio",2
+"Waterbury, Connecticut",2
+"Allentown, Pennsylvania",2
+"Bellevue, Nebraska",1
+"Sanford, Florida",1
+"Rutherford, New Jersey",1
+"Bloomfield Hills, Michigan",1
+"Bennington, Nebraska",1
+"Port Jefferson, New York",1
+"Blacksburg, Virginia",1
+"Belmont, California",1
+"Port Washington, New York",1
+"Bellflower, California",1
+"Bethel Park, Pennsylvania",1
+"Port Orange, Florida",1
+"Binghamton, New York",1
+"Salisbury, Maryland",1
+"Blakely, Georgia",1
+"Salem, Ohio",1
+"Calabasas, California",1
+"San Marcos, California",1
+"Sandy Springs, Georgia",1
+"Salem, Massachusetts",1
+"Portsmouth, New Hampshire",1
+"Portola Valley, California",1
+"Burlington, Wisconsin",1
+"Royal Palm Beach, Florida",1
+"Burbank, California",1
+"Riverdale, New Jersey",1
+"Brownsville, Minnesota",1
+"Riverdale, Georgia",1
+"Ramona, California",1
+"Riverdale Park, Maryland",1
+"Broomfield, Colorado",1
+"River Forest, Illinois",1
+"River Falls, Wisconsin",1
+"Broken Arrow, Oklahoma",1
+"Rapid City, South Dakota",1
+"Reading, Pennsylvania",1
+"Brooklyn Park, Minnesota",1
+"Bellefonte, Pennsylvania",1
+"Redlands, California",1
+"Redmond, Washington",1
+"Richfield, Minnesota",1
+"Reynoldsburg, Ohio",1
+"Racine, Wisconsin",1
+"Puyallup, Washington",1
+"Butte, Montana",1
+"Riverview, Florida",1
+"Bordentown, New Jersey",1
+"Burnsville, Minnesota",1
+"Roswell, Georgia",1
+"Rolling Meadows, Illinois",1
+"Prescott, Arizona",1
+"Redondo Beach, California",1
+"Burlingame, California",1
+"Rogue River, Oregon",1
+"Bowling Green, Missouri",1
+"Burien, Washington",1
+"Braselton, Georgia",1
+"Rockledge, Florida",1
+"Brea, California",1
+"Brighton, Colorado",1
+"Pueblo, Colorado",1
+"Rochester Hills, Michigan",1
+"Brighton, Michigan",1
+"Ridgeland, Mississippi",1
+"Spring, Texas",1
+"Santa Cruz, California",1
+"Waynesboro, Pennsylvania",1
+"Waterford, New York",1
+"Washington, Pennsylvania",1
+"Warwick, Rhode Island",1
+"Warwick, New York",1
+"Warrenville, Illinois",1
+"Warrenton, Virginia",1
+"Wappingers Falls, New York",1
+"Waco, Texas",1
+"Vista, California",1
+"Villa Park, Illinois",1
+"Vienna, West Virginia",1
+"Altadena, California",1
+"Vicksburg, Mississippi",1
+"Valparaiso, Indiana",1
+"Annandale, New Jersey",1
+"Tyrone, Pennsylvania",1
+"Twentynine Palms, California",1
+"Annandale, Virginia",1
+"Tullahoma, Tennessee",1
+"Ansonia, Connecticut",1
+"Anthem, Arizona",1
+"Tuckahoe, New York",1
+"Troy, New York",1
+"Troy, Missouri",1
+"Torrington, Connecticut",1
+"Ardsley, New York",1
+"Tiburon, California",1
+"Waupaca, Wisconsin",1
+"Waynesboro, Virginia",1
+"Belle, West Virginia",1
+"Wenatchee, Washington",1
+"York, Pennsylvania",1
+"Wyncote, Pennsylvania",1
+"Worthington, Ohio",1
+"Woodinville, Washington",1
+"Woodbury, Minnesota",1
+"Winter Park, Florida",1
+"Winter Garden, Florida",1
+"Windber, Pennsylvania",1
+"Wilton Manors, Florida",1
+"Wilmington, North Carolina",1
+"Albany, Oregon",1
+"Wilmette, Illinois",1
+"Williston, North Dakota",1
+"Williamsport, Pennsylvania",1
+"Wildwood, Missouri",1
+"Wichita Falls, Texas",1
+"Whitestown, Indiana",1
+"White Plains, New York",1
+"Wheelersburg, Ohio",1
+"Alhambra, California",1
+"Westland, Michigan",1
+"Westfield, Indiana",1
+"Westbrook, Maine",1
+"West Palm Beach, Florida",1
+"West Grove, Pennsylvania",1
+"West Allis, Wisconsin",1
+"Wesley Chapel, Florida",1
+"Thousand Oaks, California",1
+"Armonk, New York",1
+"Terre Haute, Indiana",1
+"Tecumseh, Michigan",1
+"South Pasadena, California",1
+"South Jordan, Utah",1
+"South Deerfield, Massachusetts",1
+"South Bend, Indiana",1
+"Souderton, Pennsylvania",1
+"Avoca, Iowa",1
+"Somerset, Pennsylvania",1
+"Baldwinsville, New York",1
+"Sleepy Hollow, New York",1
+"Bangor, Maine",1
+"Sierra Madre, California",1
+"Shoreview, Minnesota",1
+"Shawneetown, Illinois",1
+"Barrington, Illinois",1
+"Batavia, Illinois",1
+"Seymour, Indiana",1
+"Severn, Maryland",1
+"Sebring, Florida",1
+"Bay Shore, New York",1
+"Bay Village, Ohio",1
+"Sea Isle City, New Jersey",1
+"Scranton, Pennsylvania",1
+"Schwenksville, Pennsylvania",1
+"Schenectady, New York",1
+"Scarsdale, New York",1
+"Beaver, Pennsylvania",1
+"Bellaire, Texas",1
+"South Portland, Maine",1
+"Southampton, New York",1
+"Spartanburg, South Carolina",1
+"Strasburg, Virginia",1
+"Asheboro, North Carolina",1
+"Tallahassee, Florida",1
+"Tabor, Iowa",1
+"Asheville, North Carolina",1
+"Syosset, New York",1
+"Suwanee, Georgia",1
+"Surfside Beach, South Carolina",1
+"Sunrise, Florida",1
+"Summit, New Jersey",1
+"Summerville, South Carolina",1
+"Sugar Land, Texas",1
+"Sturgis, Kentucky",1
+"Athens, Georgia",1
+"Aurora, Illinois",1
+"Staten Island, New York",1
+"Auburn, Maine",1
+"Stallings, North Carolina",1
+"Augusta, Georgia",1
+"St. Charles, Missouri",1
+"St. Augustine, Florida",1
+"St. Albans, West Virginia",1
+"Springfield, Ohio",1
+"Springfield, Missouri",1
+"Springfield, Massachusetts",1
+"Spring Hill, Kansas",1
+"Spring City, Pennsylvania",1
+"Port Deposit, Maryland",1
+"Framingham, Massachusetts",1
+"Poland, Ohio",1
+"Jupiter, Florida",1
+"La Grange Park, Illinois",1
+"Kyle, Texas",1
+"East Northport, New York",1
+"Kingsport, Tennessee",1
+"King of Prussia, Pennsylvania",1
+"Kernville, California",1
+"Kernersville, North Carolina",1
+"Effingham, Illinois",1
+"Egg Harbor City, New Jersey",1
+"Keaau, Hawaii",1
+"Elgin, South Carolina",1
+"Elm Grove, Wisconsin",1
+"Elmira Heights, New York",1
+"Elmwood Park, New Jersey",1
+"Eagle Mountain, Utah",1
+"Johnstown, Pennsylvania",1
+"Emeryville, California",1
+"Englewood, New Jersey",1
+"Erda, Utah",1
+"Ithaca, New York",1
+"Essex, Maryland",1
+"Iron Mountain, Michigan",1
+"Indian Trail, North Carolina",1
+"Huntington, West Virginia",1
+"Huntington Station, New York",1
+"Fairbanks, Alaska",1
+"Hudson, Pennsylvania",1
+"Hudson, Ohio",1
+"East Hills, New York",1
+"Dumfries, Virginia",1
+"Lombard, Illinois",1
+"Leawood, Kansas",1
+"Little River, South Carolina",1
+"Lincolnton, North Carolina",1
+"Double Oak, Texas",1
+"Libertyville, Illinois",1
+"Douglasville, Georgia",1
+"Dowagiac, Michigan",1
+"Lewisville, Texas",1
+"Lewiston, Maine",1
+"Lenoir, North Carolina",1
+"Lenexa, Kansas",1
+"Lemont, Illinois",1
+"Leesburg, Florida",1
+"Lee's Summit, Missouri",1
+"Lawrenceville, New Jersey",1
+"Laguna Beach, California",1
+"Doylestown, Pennsylvania",1
+"Dublin, California",1
+"Largo, Maryland",1
+"Lantana, Texas",1
+"Lansing, Michigan",1
+"Dublin, Ohio",1
+"Duluth, Georgia",1
+"Lancaster, Pennsylvania",1
+"Duluth, Minnesota",1
+"Lakeview, Michigan",1
+"Lakeside, California",1
+"Lake City, Florida",1
+"Lake Charles, Louisiana",1
+"Hopewell, New Jersey",1
+"Fairfield, Iowa",1
+"Hoosick Falls, New York",1
+"Glen Rock, Pennsylvania",1
+"Flemington, New Jersey",1
+"Greenbelt, Maryland",1
+"Granger, Indiana",1
+"Flint, Michigan",1
+"Grand Prairie, Texas",1
+"Grafton, Ohio",1
+"Gouverneur, New York",1
+"Goshen, New York",1
+"Goodyear, Arizona",1
+"Glenview, Illinois",1
+"Glendora, California",1
+"Glendale, Colorado",1
+"Glendale, California",1
+"Glen Ellyn, Illinois",1
+"Honolulu, Hawaii",1
+"Glen Allen, Virginia",1
+"Gig Harbor, Washington",1
+"Germantown, Maryland",1
+"Geneva, Nebraska",1
+"Garland, Texas",1
+"Gambrills, Maryland",1
+"Fords, New Jersey",1
+"Fort Smith, Arkansas",1
+"Fuquay-Varina, North Carolina",1
+"Fullerton, California",1
+"Frisco, Texas",1
+"Fremont, California",1
+"Fredericktown, Missouri",1
+"Guerneville, California",1
+"Hacienda Heights, California",1
+"Hackensack, New Jersey",1
+"Haddonfield, New Jersey",1
+"Homewood, Illinois",1
+"Homestead, Florida",1
+"Farmingdale, New York",1
+"Homer Glen, Illinois",1
+"Fayetteville, North Carolina",1
+"Hoboken, New Jersey",1
+"Hickory, North Carolina",1
+"Hermosa Beach, California",1
+"Hendersonville, North Carolina",1
+"Henderson, Tennessee",1
+"Henderson, Nevada",1
+"Hemingford, Nebraska",1
+"Hayward, California",1
+"Hayden, Colorado",1
+"Hayden Lake, Idaho",1
+"Hawley, Pennsylvania",1
+"Hastings-on-Hudson, New York",1
+"Hartsville, South Carolina",1
+"Hartford, Connecticut",1
+"Harrisonburg, Virginia",1
+"Harrison, Arkansas",1
+"Harrisburg, Pennsylvania",1
+"Hardinsburg, Kentucky",1
+"Hancock, Maryland",1
+"Hanceville, Alabama",1
+"Hammond, Indiana",1
+"Half Moon Bay, California",1
+"Devon, Pennsylvania",1
+"Lompoc, California",1
+"Plumas Lake, California",1
+"Nolensville, Tennessee",1
+"Odessa, Texas",1
+"Oceanside, New York",1
+"Ocala, Florida",1
+"Oblong, Illinois",1
+"Oberlin, Ohio",1
+"Oak Park, Michigan",1
+"Oak Park, Illinois",1
+"Chappaqua, New York",1
+"Northbrook, Illinois",1
+"North Potomac, Maryland",1
+"North Platte, Nebraska",1
+"North Highlands, California",1
+"Chester, Pennsylvania",1
+"Nokomis, Florida",1
+"Fredericksburg, Virginia",1
+"Niantic, Connecticut",1
+"Newtown, Pennsylvania",1
+"Newton, Massachusetts",1
+"Newport, Oregon",1
+"Newport News, Virginia",1
+"Newcastle, Oklahoma",1
+"Newburyport, Massachusetts",1
+"Chesterfield, Missouri",1
+"Newark, California",1
+"Cheverly, Maryland",1
+"New Windsor, Maryland",1
+"Chicopee, Massachusetts",1
+"Chula Vista, California",1
+"Chaparral, New Mexico",1
+"Olathe, Kansas",1
+"DeKalb, Illinois",1
+"Patchogue, New York",1
+"Pleasant Grove, Utah",1
+"Canton, New York",1
+"Plainfield, Indiana",1
+"Pikesville, Maryland",1
+"Phoenix, Oregon",1
+"Caribou, Maine",1
+"Petaluma, California",1
+"Carlsbad, California",1
+"Pensacola, Florida",1
+"Pemberville, Ohio",1
+"Pearland, Texas",1
+"Peachtree Corners, Georgia",1
+"Carmichael, California",1
+"Carol Stream, Illinois",1
+"Champlain, New York",1
+"Parkville, Maryland",1
+"Park Ridge, Illinois",1
+"Park Forest, Illinois",1
+"Palmdale, California",1
+"Palm Springs, California",1
+"Palm Bay, Florida",1
+"Ossining, New York",1
+"Orwigsburg, Pennsylvania",1
+"Cedar Park, Texas",1
+"Orland, California",1
+"Orem, Utah",1
+"Oreland, Pennsylvania",1
+"Oregon, Ohio",1
+"Nacogdoches, Texas",1
+"Murrieta, California",1
+"Munster, Indiana",1
+"Crittenden, Kentucky",1
+"McKeesport, Pennsylvania",1
+"McCordsville, Indiana",1
+"Maywood, Illinois",1
+"Mauldin, South Carolina",1
+"Marshall, Minnesota",1
+"Mars, Pennsylvania",1
+"Marion, Kentucky",1
+"Marion, Iowa",1
+"Marina del Rey, California",1
+"Coweta, Oklahoma",1
+"Maple Grove, Minnesota",1
+"Manhasset, New York",1
+"Creve Coeur, Missouri",1
+"Maineville, Ohio",1
+"Clarksville, Tennessee",1
+"Crown Point, Indiana",1
+"Crystal, Minnesota",1
+"Culver City, California",1
+"Lutherville, Maryland",1
+"Loves Park, Illinois",1
+"Cupertino, California",1
+"Cuyahoga Falls, Ohio",1
+"Dacula, Georgia",1
+"Davis, California",1
+"Dayton, Ohio",1
+"Los Alamos, New Mexico",1
+"Lookout Mountain, Tennessee",1
+"Dayton, Tennessee",1
+"Coronado, California",1
+"Mechanicsville, Maryland",1
+"Melville, New York",1
+"Corinth, Mississippi",1
+"Mountlake Terrace, Washington",1
+"Clifton, New Jersey",1
+"Morrisville, Pennsylvania",1
+"Clinton, South Carolina",1
+"Morehead City, North Carolina",1
+"Monument, Colorado",1
+"Montvale, New Jersey",1
+"Montgomery, Alabama",1
+"Monterey, California",1
+"Monterey Park, California",1
+"Mont Belvieu, Texas",1
+"College Park, Maryland",1
+"Monroe, New York",1
+"Modesto, California",1
+"Missouri City, Texas",1
+"Mission, Kansas",1
+"Minneola, Florida",1
+"Collinsville, Illinois",1
+"Colonia, New Jersey",1
+"Columbia, Kentucky",1
+"Milton, Georgia",1
+"Millbrae, California",1
+"Milan, Michigan",1
+"Cookeville, Tennessee",1
+"Copper Canyon, Texas",1
+"Coral Springs, Florida",1
+"Menifee, California",1
+"Chandler, Arizona",1
