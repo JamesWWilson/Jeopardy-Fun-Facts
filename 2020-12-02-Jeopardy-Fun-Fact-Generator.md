@@ -7,7 +7,7 @@ categories: null
 ---
 
 {:refdef: style=“text-align: center;”}
-![title](/assets/jeopardy_images/jeopardy_pic.jpg){: .center-image ; height="550px" width="550px"}
+![title](/assets/jeopardy_images/jeopardy_pic.jpg){: .center-image ; height="550px" width="750px"}
 {: refdef}
 
 
@@ -46,6 +46,22 @@ Part 1: The Data
 {:refdef: style=“text-align: center;”}
 ![archive](/assets/jeopardy_images/jeopardy-archive.jpeg){:height="550px" width="750px"}
 {: refdef}
+
+{:refdef: style=“text-align: center;”}
+![archive|512x397,20%](/assets/jeopardy_images/jeopardy-archive.jpeg)
+{: refdef}
+
+{:refdef: style=“text-align: center;”}
+![archive|512x397,50%](/assets/jeopardy_images/jeopardy-archive.jpeg)
+{: refdef}
+
+{:refdef: style=“text-align: center;”}
+![archive](/assets/jeopardy_images/jeopardy-archive.jpeg){width=50%}
+{: refdef}
+
+<p style="text-align:center;"><img src="/assets/jeopardy_images/jeopardy-archive.jpeg" alt="Logo"></p>
+
+
 
 We can collect information on Jeopardy contestants from two sources: the
 Offical Jeopardy Archive & the Twitter account *@CoolJeopardyStories*.
