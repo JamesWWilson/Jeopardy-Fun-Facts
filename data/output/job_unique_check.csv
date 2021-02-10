@@ -1,0 +1,34 @@
+final_job_category,count
+accounting/ business/ finance,26
+actor/artist/designer,54
+administration/ advisory,31
+analyst,42
+assistant/ service industry,30
+consultant,38
+coordinator,17
+director,50
+editor,23
+engineer/ architect,32
+grad student,65
+laborer,12
+lawyer,31
+librarian,25
+manager,112
+marketing,11
+military/ clergy,11
+misc education,17
+misc government,30
+misc health,21
+misc healthcare,10
+miscellaneous,42
+musician,15
+physician,25
+professor,27
+salesperson,15
+scientist/ researcher,41
+specialist,44
+student,71
+teacher,110
+technician/ programmer,26
+unemployed,160
+writer,53

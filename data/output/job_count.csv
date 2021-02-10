@@ -1,0 +1,38 @@
+job_category,count
+entrepreneur,1
+mom,4
+nurse,7
+doctor,7
+architect,10
+author,10
+reporter,11
+chef,11
+military officer,12
+advisor,13
+nonprofit,15
+volunteer,15
+journalist,18
+technician,19
+lawyer,20
+misc government,20
+misc health,31
+coordinator,36
+specialist,38
+scientist,50
+musician,53
+director,58
+consultant,65
+librarian,67
+analyst,82
+professor,94
+engineer,95
+artist/designer,100
+misc education,103
+writer,135
+teacher,149
+attorney,158
+manager,177
+grad student,177
+student,244
+unemployed,326
+,719
